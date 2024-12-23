@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm a second-year Ph.D. student in Statistics at Shanghai Jiao Tong University, passionate about causal inference, higher order influence functioin, bootstrap and statistical computing.
+
 <!--
 **cxy0714/cxy0714** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
