@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Xingyu Chen(陈星宇), a second-year Ph.D. student in Statistics at Shanghai Jiao Tong University(SJTU), now passionate about causal inference, higher order influence function, bootstrap and statistical computing. My advisor is [Professor Lin Liu (刘林)](https://linliu-stats.github.io/). 
+I'm Xingyu Chen(陈星宇), a second-year Ph.D. candidate in Statistics at Shanghai Jiao Tong University(SJTU), now passionate about causal inference, higher order influence function, bootstrap and statistical computing. My advisor is [Professor Lin Liu (刘林)](https://linliu-stats.github.io/). 
 
 Before joining SJTU, I received my B.S. degree in mathematics and applied mathematics from Huazhong University of Science and Technology(HUST). 
 
