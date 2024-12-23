@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Xingyu Chen(陈星宇), a second-year Ph.D. student in Statistics at Shanghai Jiao Tong University, now passionate about causal inference, higher order influence function, bootstrap and statistical computing. My advisor is [Lin Liu (刘林)](https://linliu-stats.github.io/).
+I'm Xingyu Chen(陈星宇), a second-year Ph.D. student in Statistics at Shanghai Jiao Tong University, now passionate about causal inference, higher order influence function, bootstrap and statistical computing. My advisor is [Profess Lin Liu (刘林)](https://linliu-stats.github.io/).
 
 <!--
 **cxy0714/cxy0714** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
