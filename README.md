@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Xingyu Chen(陈星宇), a third-year Ph.D. candidate in Statistics at [School of Mathematical Sciences](https://math.sjtu.edu.cn/Default/index/), [Shanghai Jiao Tong University(SJTU)](https://www.sjtu.edu.cn/), now interested in ccausal inference, high-dimensional statistics, higher-order U-statistics and statistical computing,semiparametric and nonparametric theory, inverse problem, efficiency theory. I am very fortunate to be advised by [Professor Lin Liu (刘林)](https://linliu-stats.github.io/). 
+I'm Xingyu Chen(陈星宇), a third-year Ph.D. candidate in Statistics at [School of Mathematical Sciences](https://math.sjtu.edu.cn/Default/index/), [Shanghai Jiao Tong University(SJTU)](https://www.sjtu.edu.cn/), now interested in causal inference, high-dimensional statistics, higher-order U-statistics and statistical computing, semiparametric and nonparametric theory, inverse problem, efficiency theory. I am very fortunate to be advised by [Professor Lin Liu (刘林)](https://linliu-stats.github.io/). 
 
 Before joining SJTU, I received my B.S. degree in mathematics and applied mathematics from [School of Mathematical Sciences](https://maths.hust.edu.cn/), [Huazhong University of Science and Technology(HUST)](http://www.hust.edu.cn/). 
 
