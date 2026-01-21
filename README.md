@@ -1,10 +1,12 @@
 ## Hi there 👋
 
-I'm Xingyu Chen(陈星宇), a third-year Ph.D. candidate in Statistics at [School of Mathematical Sciences](https://math.sjtu.edu.cn/Default/index/), [Shanghai Jiao Tong University(SJTU)](https://www.sjtu.edu.cn/), now interested in causal inference, high-dimensional statistics, higher-order U-statistics and statistical computing, semiparametric and nonparametric theory, inverse problem, efficiency theory. I am very fortunate to be advised by [Professor Lin Liu (刘林)](https://linliu-stats.github.io/). 
+I'm **Xingyu Chen (陈星宇)**, a third-year Ph.D. candidate in Statistics at the [School of Mathematical Sciences](https://math.sjtu.edu.cn/Default/index/), [Shanghai Jiao Tong University (SJTU, 上海交通大学)](https://www.sjtu.edu.cn/).  I’m fortunate to be advised by [Professor **Lin Liu (刘林)**](https://linliu-stats.github.io/).
 
-Before joining SJTU, I received my B.S. degree in mathematics and applied mathematics from [School of Mathematical Sciences](https://maths.hust.edu.cn/), [Huazhong University of Science and Technology(HUST)](http://www.hust.edu.cn/). 
+My research interests focus on causal inference and mathematical statistics, including high-dimensional statistics, higher-order U-statistics, statistical computing, semiparametric and nonparametric theory, inverse problems, and efficiency theory.
 
-⚡ Fun fact: "0714" is the discipline code for Statistics in Chinese Ministry of Education's subject classification system, where "07" represents Science and "0701" represents Mathematics. ([Source](https://www.cdgdc.edu.cn/dslxkpgjggb/))
+Before joining SJTU, I received my B.S. in Mathematics and Applied Mathematics in 2023 from the [School of Mathematical Sciences](https://maths.hust.edu.cn/), [Huazhong University of Science and Technology (HUST, 华中科技大学)](http://www.hust.edu.cn/).
+
+⚡ Fun fact: "0714" is the official subject code for Statistics in the Chinese Ministry of Education’s classification system—“07” represents Science, and “0701” represents Mathematics. ([source](https://www.cdgdc.edu.cn/dslxkpgjggb/))
   
 <!--
 
